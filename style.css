@@ -20,3 +20,24 @@ border-radius: 8px;
 padding: 9px 25px;
 cursor: pointer;
 }
+.cat1{
+  background-image: linear-gradient(to bottom, #a8ff78 0%, #78ffd6 100%);
+}
+.cat2{
+  background-image: linear-gradient(to bottom, #FDC830 0%,#F37335 100% );
+}
+.cat3{
+  background-image: linear-gradient(to bottom, #7303c0 0%,#ec38bc 100%);
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categoris h1{
+  color: white;
+  cursor: pointer;
+}
+.categoris img{
+  width: 120px;
+  cursor: pointer;
+}
