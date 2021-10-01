@@ -48,3 +48,11 @@ cursor: pointer;
   width: 120px;
   cursor: pointer;
 }
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  background-color: white;
+  border-top: none;
+}
