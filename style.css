@@ -56,3 +56,14 @@ cursor: pointer;
   background-color: white;
   border-top: none;
 }
+#subscribe{
+  height: 300px;
+  box-shadow: 5px 5px 40px gray;
+}
+#subscribe h6{
+  color: gray;
+}
+footer{
+  text-align: center;
+  margin-bottom: 20px;
+}
